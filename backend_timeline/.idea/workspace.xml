@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="646a8d2a-1fea-4486-99c7-51421529eb78" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/backend/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/backend">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="backend" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="backend" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="backend" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="backend" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1X0uEFzMvdso2r99Yk5OH8AHwTa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.file-colors" />
+  </component>
+  <component name="RunManager">
+    <configuration name="BackendApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="backend.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.backend.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.backend.BackendApplication" />
+      <option name="VM_PARAMETERS" value="-Ddebug=true" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.BackendApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="646a8d2a-1fea-4486-99c7-51421529eb78" name="Default Changelist" comment="" />
+      <created>1580195220175</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580195220175</updated>
+      <workItem from="1580195222499" duration="2000" />
+      <workItem from="1580195234559" duration="11788000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="681" y="71" key="#Plugins" timestamp="1580197437521">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="681" y="71" key="#Plugins/0.0.1536.824@0.0.1536.824" timestamp="1580197437521" />
+    <state x="438" y="88" width="980" height="688" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580206869634">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="438" y="88" width="980" height="688" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1580206869634" />
+    <state x="894" y="97" key="#com.intellij.ide.util.MemberChooser" timestamp="1580199062813">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="894" y="97" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1580199062813" />
+    <state x="937" y="302" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1580197495086">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="937" y="302" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1580197495086" />
+    <state x="853" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580202101776">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="853" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1580202101776" />
+    <state width="899" height="261" key="GridCell.Tab.0.bottom" timestamp="1580207869174">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="899" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580207869174" />
+    <state width="899" height="261" key="GridCell.Tab.0.center" timestamp="1580207869174">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="899" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1580207869174" />
+    <state width="899" height="261" key="GridCell.Tab.0.left" timestamp="1580207869174">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="899" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1580207869174" />
+    <state width="899" height="261" key="GridCell.Tab.0.right" timestamp="1580207869174">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="899" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1580207869174" />
+    <state width="899" height="261" key="GridCell.Tab.1.bottom" timestamp="1580207869174">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="899" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580207869174" />
+    <state width="899" height="261" key="GridCell.Tab.1.center" timestamp="1580207869174">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="899" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1580207869174" />
+    <state width="899" height="261" key="GridCell.Tab.1.left" timestamp="1580207869174">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="899" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1580207869174" />
+    <state width="899" height="261" key="GridCell.Tab.1.right" timestamp="1580207869174">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="899" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1580207869174" />
+    <state width="899" height="261" key="GridCell.Tab.2.bottom" timestamp="1580207869175">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="899" height="261" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580207869175" />
+    <state width="899" height="261" key="GridCell.Tab.2.center" timestamp="1580207869174">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="899" height="261" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1580207869174" />
+    <state width="899" height="261" key="GridCell.Tab.2.left" timestamp="1580207869174">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="899" height="261" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1580207869174" />
+    <state width="899" height="261" key="GridCell.Tab.2.right" timestamp="1580207869174">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="899" height="261" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1580207869174" />
+    <state width="196" height="477" key="HiddenNamespacesPopup" timestamp="1580197114485">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="196" height="477" key="HiddenNamespacesPopup/0.0.1536.824@0.0.1536.824" timestamp="1580197114485" />
+    <state x="555" y="55" key="SettingsEditor" timestamp="1580200388341">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="555" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1580200388341" />
+    <state x="360" y="114" key="new project wizard" timestamp="1580195315237">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="360" y="114" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1580195315237" />
+    <state x="751" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1580200937025">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="751" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1580200937025" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/backend/src/main/java/com/example/backend/BackendApplication.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/backend/src/main/java/com/example/backend/BackendApplication.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
